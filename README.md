@@ -20,4 +20,7 @@
 2. Start NPM - using the npm navigate to the project directory and execute the following command: npm init --yes
 3. Install Cypress - using the npm navigate to the project directory and execute the following command: npm install -D cypress
 4. Start Cypress - execute the following command: npx cypress open
+5. Click in "E2E Testing"
+6. Click in "Starting E2E Testing in Chrome"
+7. Run Spec all.cy.js
 
